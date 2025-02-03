@@ -46,28 +46,28 @@
 
 #3 ejercicio
 
-#L = ["Matemáticas", "sol", "ONU", "Bonn", "fly"]
+L = ["Matemáticas", "sol", "ONU", "Bonn", "fly"]
 
-#v = "aeiouAEIOUáéíóúÁÉÍÓÚ"
+v = "aeiouAEIOUáéíóúÁÉÍÓÚ"
 
-#c = len(L)
+c = len(L)
 
 
-#n = 0
+n = 0
 
-#while n < c:
+while n < c:
 
-    #y = L[n]
-    #p = 0
-    #for letra in y:
-        #for t in v:
-            #while letra == t and p < 2:
-                #p += 1
-                #if p >= 2:
-                    #print("Esta palabra tiene una o más vocales: ", y)
-                #break
+    y = L[n]
+    p = 0
+    for letra in y:
+        for t in v:
+            while letra == t and p < 2:
+                p += 1
+                if p >= 2:
+                    print("Esta palabra tiene dos o más vocales: ", y)
+                break
                 
-    #n += 1
+    n += 1
 
 #####################################################
 
