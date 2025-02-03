@@ -1,7 +1,7 @@
 #1 Ejercicio#
 
 
-#L = ["Zidane", "Hierro", "Lampard", 12, "Ronaldo", "Roberto", 1]
+#L = ["Tablero", "Hierro", "Uruguay", "Nube", "Ronaldo", "Roberto", "Uruguay"]
 
 #m = 0
 
@@ -30,12 +30,12 @@
 #2 ejercicio
 
 
-#N = ["radar", "oro", "Rafael", "Montaña"]
+#N = ["radar", "Flor", "Rafael", "Montaña"]
 #for palabra in N:
     #t = list(palabra)
     #r = t[::-1]
     #if t == r:
-        #print("".join(t))
+        #print("La siguiente palabra en la lista es palíndrome: ","".join(t))
         #break   
 #else:
     #print("No existe")
@@ -46,7 +46,7 @@
 
 #3 ejercicio
 
-#L = ["Mat", "sol", "ONU", "Bonn", "fl"]
+#L = ["Matemáticas", "sol", "ONU", "Bonn", "fly"]
 
 #v = "aeiouAEIOUáéíóúÁÉÍÓÚ"
 
@@ -65,8 +65,6 @@
                 #p += 1
                 #if p >= 2:
                     #print("Esta palabra tiene una o más vocales: ", y)
-                #else:
-                    #print("No existe")
                 #break
                 
     #n += 1
