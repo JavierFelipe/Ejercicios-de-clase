@@ -15,9 +15,14 @@ Ejercicios de listas y tuplas
 
 3 Ejercicio
 
-![Ejercicio 3 de clase](https://github.com/user-attachments/assets/cb91894b-21de-4232-88c3-94b9fb3a9f2b)
+![Ejercicio 3 corregido](https://github.com/user-attachments/assets/0da1d2cf-a9fd-4bec-afb3-ad9d2e4c80b9)
 
-![Solucion ejercicio 3 de clase](https://github.com/user-attachments/assets/1153bf14-6c85-4899-877d-a1718b10f2fd)
+
+![Solucion ejercicio 3 corregido](https://github.com/user-attachments/assets/f7698ded-23cd-4371-8860-499ad6a0ba48)
+
+
+
+
 
 4 Ejercicio
 
